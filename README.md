@@ -14,7 +14,7 @@ Are you planing to go on vacation? You should check the weather forecast before 
 
 
 ## Screenshots
-![Example screenshot](./Screen1.png)
+![Example screenshot](./Screen1.png,./Screen2.png)
 
 ## Technologies
 The app should run on iPhone devices (IOS 13.0 and above) 
