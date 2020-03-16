@@ -16,15 +16,15 @@ Are you planing to go on vacation? You should check the weather forecast before 
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](./Screen1.png)
+![Screenshot 1](./Screen 1.png)
 ### Screenshot 2
-![Screenshot 2](./Screen2.png)
+![Screenshot 2](./Screen 2.png)
 ### Screenshot 3
-![Screenshot 3](./Screen3.png)
+![Screenshot 3](./Screen 3.png)
 ### Screenshot 4
-![Screenshot 4](./Screen4.png)
+![Screenshot 4](./Screen 4.png)
 ### Screenshot 5
-![Screenshot 5](./Screen5.png)
+![Screenshot 5](./Screen 5.png)
 
 
 ## Technologies
